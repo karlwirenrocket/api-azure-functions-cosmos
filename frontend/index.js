@@ -1,5 +1,6 @@
 (function () {
-  const API = "http://127.0.0.1:7071/api";
+  //const API = "http://127.0.0.1:7071/api";
+  const API = "https://tailwindapi-apim.azure-api.net/tailwindapi";
 
   new Vue({
     el: "#app",
