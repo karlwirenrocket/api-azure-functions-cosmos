@@ -15,7 +15,7 @@ const httpTrigger: AzureFunction = async function (
     response = { body: err.message, status: 500 };
   }
 
-  context.res = response.body;
+  context.res = response;
 };
 
 export default httpTrigger;
