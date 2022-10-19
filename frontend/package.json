@@ -4,6 +4,7 @@
     "description": "Product Manager web application for Tailwind Traders",
     "main": "index.html",
     "scripts": {
-      "start": "npx serve"
+      "start": "npx serve",
+     "build" : "azure"
     }
   }
