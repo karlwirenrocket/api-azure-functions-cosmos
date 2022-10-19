@@ -4,7 +4,6 @@
     "description": "",
     "scripts": {
       "build": "tsc",
-      "build": "azure",
       "watch": "tsc -w",
       "prestart": "npm run build",
       "start": "func start",

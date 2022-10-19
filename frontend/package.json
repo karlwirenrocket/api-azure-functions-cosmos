@@ -5,6 +5,6 @@
     "main": "index.html",
     "scripts": {
       "start": "npx serve",
-     "build" : "azure"
+      "build" : "azure"
     }
   }
